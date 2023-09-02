@@ -1,0 +1,48 @@
+ Here are some questions to  analyze using this dataset:
+
+1. **Medication Pricing:**
+   - What is the distribution of max consumer prices for medications?
+   - How does the max retailer price compare to the max consumer price for different medications?
+   - Are there medications with significant differences between the max consumer price and the max consumer VAT price?
+
+2. **Package Sizes:**
+   - What are the common package sizes for medications in the dataset?
+   - Are there any trends or patterns in package sizes over the years?
+   - How does the pricing vary based on different package sizes?
+
+3. **Yearly Analysis:**
+   - How has the max retailer price changed over the years?
+   - Is there any correlation between the year and medication pricing?
+   - Are there any particular years where there was a notable increase or decrease in pricing?
+
+4. **Medication Name Analysis:**
+   - Which medications have the highest max retailer or consumer prices?
+   - Are there any medications with consistent price increases over the years?
+   - Are there any medications with significant differences in pricing between different package sizes?
+
+5. **VAT Price Impact:**
+   - What is the distribution of differences between max consumer prices and max consumer VAT prices?
+   - How does the presence of VAT affect medication pricing?
+   - Is there any noticeable pattern in the VAT pricing across medications?
+
+6. **Price Variability:**
+   - Are there medications with highly variable pricing across different retailers or consumer types?
+   - Which medications have the most stable pricing over the years?
+
+7. **Market Trends:**
+   - Are there any trends or factors that seem to influence medication pricing across the years?
+   - Can you identify any periods of rapid price changes in the dataset?
+
+8. **Outliers and Anomalies:**
+   - Are there any outliers in the pricing data that could be investigated further?
+   - Do any medications have unusually low or high pricing that might warrant scrutiny?
+
+9. **Comparison Between Medications:**
+   - Can you identify groups of medications that share similar pricing patterns?
+   - Are there specific types of medications that tend to have higher or lower prices?
+
+10. **Correlation Analysis:**
+    - Is there a correlation between package size and pricing?
+    - Is there any correlation between different pricing columns (max retailer, max consumer, VAT) for medications?
+
+Remember, the specific questions you explore will depend on your goals and the insights you're seeking from the dataset. These questions should help you get started with a deeper analysis of your medication pricing dataset.
